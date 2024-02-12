@@ -5,9 +5,10 @@ Minecraft 1.20.4 - Survie Hardcore
 - 🇫🇷 
 - BUT INFORMATIQUE de Limoges
 - Python :    🟩🟩🟩🟩🟥
-- SQL :       🟩🟩🟩🟩🟥
+- SQL :       🟩🟩🟩🟧🟥
+- Java :      🟨🟥🟥🟥🟥
 - Anglais :   🟩🟩🟩🟩🟩
-- Espagnol :  🟩🟩🟥🟥🟥
+- Espagnol :  🟩🟨🟥🟥🟥
   
 
 
