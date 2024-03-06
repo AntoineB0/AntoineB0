@@ -1,12 +1,12 @@
 
-![alt text](https://cdn.discordapp.com/attachments/1043586893213876314/1204837336891007046/banner.jpg?ex=65d62f35&is=65c3ba35&hm=bf4dedc201ddf71b2ad16cc330f184b714a70705f70224bfbb267482d60c61ba&)
+![alt text]()
 Minecraft 1.20.4 - Survie Hardcore
 - @AntoineB0
 - 🇫🇷 
 - BUT INFORMATIQUE de Limoges
 - Python :    🟩🟩🟩🟩🟥
 - SQL :       🟩🟩🟩🟧🟥
-- Java :      🟨🟥🟥🟥🟥
+- Java :      🟧🟥🟥🟥🟥
 - Anglais :   🟩🟩🟩🟩🟩
 - Espagnol :  🟩🟨🟥🟥🟥
   
