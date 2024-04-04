@@ -1,6 +1,6 @@
 
 ![alt text]()
-Minecraft 1.20.4 - Survie Hardcore
+
 - @AntoineB0
 - 🇫🇷 
 - BUT INFORMATIQUE de Limoges
