@@ -5,8 +5,8 @@
 - 🇫🇷 
 - BUT INFORMATIQUE de Limoges
 - Python :‎ ‎ ‎ ‎ 🟩🟩🟩🟩🟥
-- SQL :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟩🟩🟧🟥
-- Java :‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟨🟥🟥🟥
+- SQL :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟩🟩🟧🟥
+- Java :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟨🟥🟥🟥
 - Anglais :‎ ‎ ‎ 🟩🟩🟩🟩🟩
 
   
