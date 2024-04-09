@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/AntoineB0/AntoineB0/blob/main/banner.png)
+![alt text](https://github.com/AntoineB0/AntoineB0/blob/main/banner_v2.png)
 
 - @AntoineB0
 - 🇫🇷 
