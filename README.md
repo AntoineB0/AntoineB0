@@ -4,11 +4,11 @@
 - @AntoineB0
 - 🇫🇷 
 - BUT INFORMATIQUE de Limoges
-- Python :    🟩🟩🟩🟩🟥
-- SQL :       🟩🟩🟩🟧🟥
-- Java :      🟩🟨🟥🟥🟥
-- Anglais :   🟩🟩🟩🟩🟩
-- Espagnol :  🟩🟨🟥🟥🟥
+- Python :‎ ‎ ‎ ‎ 🟩🟩🟩🟩🟥
+- SQL :‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟩🟩🟧🟥
+- Java :‎ ‎ ‎ ‎ ‎ ‎ 🟩🟨🟥🟥🟥
+- Anglais :‎ ‎ ‎ 🟩🟩🟩🟩🟩
+
   
 
 
