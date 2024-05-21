@@ -6,7 +6,7 @@
 - BUT INFORMATIQUE de Limoges
 - Python :‎ ‎ ‎ ‎ 🟩🟩🟩🟩🟥
 - SQL :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟩🟩🟧🟥
-- Java :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟨🟥🟥🟥
+- Java :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟩🟥🟥🟥
 - Anglais :‎ ‎ ‎ 🟩🟩🟩🟩🟩
 
   
