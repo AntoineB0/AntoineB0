@@ -1,16 +1,8 @@
 
 ![alt text](https://github.com/AntoineB0/AntoineB0/blob/main/banner_v2fix.png)
+![alt text](https://github.com/AntoineB0/AntoineB0/blob/main/banner_lang.png)
 
-- @AntoineB0
-- 🇫🇷 
-- BUT INFORMATIQUE de Limoges
-- Python :‎ ‎ ‎ ‎ 🟩🟩🟩🟩🟥
-- SQL :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟩🟩🟧🟥
-- Java :‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🟩🟩🟩🟥🟥
-- Anglais :‎ ‎ ‎ 🟩🟩🟩🟩🟩
-- Espagnol :  🟩🟩🟥🟥🟥
 
-  
 
 
 <!---
