@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/AntoineB0/AntoineB0/blob/main/banner_v2fix.png)
+![alt text](https://raw.githubusercontent.com/AntoineB0/AntoineB0/refs/heads/main/Banner_Figma.jpg)
 ![alt text](https://github.com/AntoineB0/AntoineB0/blob/main/banner_lang.png)
 
 
