@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/AntoineB0/AntoineB0/refs/heads/main/Banner_Figma.jpg)
+![alt text](https://raw.githubusercontent.com/AntoineB0/AntoineB0/refs/heads/main/Banner_new.png)
 ![My Skills](https://skillicons.dev/icons?i=java,python,rust,cpp,html,css,js,ts,php,docker,figma,postgres)
 
 
